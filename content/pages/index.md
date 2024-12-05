@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/pexels-tapojit-chaki-734722540-18421389.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
