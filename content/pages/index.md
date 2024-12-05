@@ -61,7 +61,10 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/pexels-n-voitkevich-8939255.jpg
+      url: >-
+        /images/DALL·E 2024-12-05 09.11.26 - A modern, sleek background image
+        for an online store, featuring a variety of tech gadgets like
+        smartphones, tablets, smartwatches, headphones, and lap.webp
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
