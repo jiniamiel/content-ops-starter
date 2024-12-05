@@ -16,7 +16,7 @@ sections:
       shipping, exclusive deals, and exceptional customer service. Neojini –
       Where smart shopping meets modern living.
     actions:
-      - label: shop now
+      - label: Shop Now!!
         altText: ''
         url: /
         showIcon: false
