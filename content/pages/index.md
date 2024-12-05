@@ -8,10 +8,49 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      .badge-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      margin: 20px auto;
+      max-width: 1200px;
+      }
+
+      .badge {
+      text-align: center;
+      background: linear-gradient(135deg, #ffffff, #f8f8f8);
+      border: 1px solid #dcdcdc;
+      border-radius: 10px;
+      padding: 15px;
+      max-width: 200px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      transition: all 0.3s ease-in-out;
+      }
+
+      .badge:hover {
+      transform: translateY(-5px);
+      border-color: #b0b0b0;
+      background: linear-gradient(135deg, #fefefe, #eeeeee);
+      }
+
+      .badge h3 {
+      font-size: 1.2rem;
+      color: #333333;
+      margin-bottom: 8px;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+      }
+
+      .badge p {
+      font-size: 0.9rem;
+      color: #666666;
+      }
+
+      body {
+      background-color: #f4f4f4; /\* Optional: Light background for contrast \*/
+      }
+
     actions:
       - label: Get started
         altText: ''
