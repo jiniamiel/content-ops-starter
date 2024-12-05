@@ -67,10 +67,10 @@ sections:
       - type: FeaturedItem
         title: Premium Product Selection
         subtitle: The Best Tech at Your Fingertips
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Neojini offers a curated collection of the latest iPhones, gadgets,
+          and accessories, all handpicked for quality and performance. Shop
+          premium products that elevate your lifestyle.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
