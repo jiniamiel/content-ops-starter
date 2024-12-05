@@ -61,6 +61,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/pexels-n-voitkevich-8939255.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
