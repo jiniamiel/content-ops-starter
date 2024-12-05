@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Premium Product Selection
-        subtitle: Numbers Done
+        subtitle: The Best Tech at Your Fingertips
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
